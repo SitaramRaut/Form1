@@ -11,7 +11,7 @@ ul{
     color:red;
 }
 #B{
-    color:red;
+    color: blue;
 }
 body {
     background-image:linear-gradient(red,orange);

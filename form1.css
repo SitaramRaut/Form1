@@ -1,0 +1,88 @@
+body {
+   background-color: rgb(241,241,197);;
+    margin :0px;
+    padding :0px;
+    font-family: 'Kanit', sans-serif;
+    
+}
+main{
+    display :flex;
+    color:black;
+    justify-content : center ;
+    align-items: center ;
+    height :100vh;
+    
+    
+    
+    }
+    
+main form {
+
+width :60%;
+background-color:white;
+
+padding :50px;
+border-radius:5%; 
+align-items: center ;
+
+}
+label #user,#pass{
+    display :block;
+    width :30%;
+    padding-left:0px;
+}
+
+label {
+    font-size:20px;
+    justify-content:center;
+}
+button {
+    width :80%;
+    height :5%;
+    border-radius:5%;
+    border :center;
+    margin :20px 20px;
+    background-color: yellow;
+    color: black ;
+    
+}
+main form  div{
+    display :flex;
+    justify-content: space-between;
+    
+}
+
+ #user::placeholder
+ {
+    color: black;
+}
+#pass::placeholder 
+{
+color:black;
+}
+
+
+.fa-solid.fa-face-laugh-beam{
+display :flex;
+    color: Yellow;
+    font-size:60px;
+    justify-content:center;
+}
+#as{
+display :flex;
+    color: orange ;
+    justify-content:center;
+}
+div{
+    justify-content:left;
+}
+div1{
+    color :black;
+}
+
+.fa-solid.fa-user{
+    top:80%;
+    left:2%;
+    position: absolute ;
+    color: black ;
+}

@@ -1,0 +1,53 @@
+h1{
+    color:Red
+}
+table
+{
+    border :3px solid black ;
+    border-collapse : collapse;
+}
+th{
+     border :3px solid brown;
+     color: brown ;
+}
+td{
+
+    border :3px solid black ;
+    border-collapse : collapse;
+}
+#gt{
+    color: grey;
+}
+#rr{
+    color:Pink;
+}
+#lsg{
+    color: aqua;
+}
+#rcb{
+    color: green;
+}
+#dc{
+    color:Brown;
+} 
+#pkbs{
+    color:red;
+}
+#kkr{
+    color: purple;
+}
+#srh{
+    color: orange;
+}
+#csk{
+    color: Yellow ;
+}
+#mi{
+    color: blue ;
+}
+.Q{
+        color: green ;
+}
+.E{
+    color: Red;
+}
